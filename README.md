@@ -1,6 +1,12 @@
 # PrepMe: AI-Powered Interview Preparation
 
 PrepMe is a cutting-edge web application designed to help users prepare for interviews efficiently. With personalized AI-generated questions, mock interviews, resume analysis, and industry insights, PrepMe is your ultimate tool to ace any interview.
+<img width="1440" alt="Screenshot 2024-12-30 at 12 47 35" src="https://github.com/user-attachments/assets/9e5daa3a-4fa7-487f-a04d-a8c39982689f" />
+
+<img width="1440" alt="Screenshot 2024-12-30 at 12 47 58" src="https://github.com/user-attachments/assets/97b285ec-c04b-42a3-af20-01385d8ac2ec" />
+
+<img width="1440" alt="Screenshot 2024-12-30 at 12 48 10" src="https://github.com/user-attachments/assets/cbe56b9e-220a-4449-9c81-78960cca3a8a" />
+
 
 ## Features
 
